@@ -2,9 +2,9 @@
 
 This repository contains code to reproduce results from the paper:
 
-[Enhancing the Transferability of Adversarial Attacks through Variance Tuning]() (CVPR 2021)
+[Enhancing the Transferability of Adversarial Attacks through Variance Tuning](https://arxiv.org/abs/2103.15571) (CVPR 2021)
 
-Xiaosen Wang, Kun He
+[Xiaosen Wang](https://xiaosen-wang.github.io/), Kun He
 
 ## Requirements
 
