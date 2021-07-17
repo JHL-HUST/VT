@@ -50,6 +50,8 @@ CUDA_VISIBLE_DEVICES=gpuid python simple_eval.py
 + [RS](https://github.com/locuslab/smoothing): noise=0.25, N=100, skip=100
 + [NRP](https://github.com/Muzammal-Naseer/NRP): purifier=NRP, dynamic=True, base_model=Inc_v3_ens
 
+More details in [third_party](./third_party)
+
 ## Acknowledgments
 
 Code refers to [SI-NI-FGSM](https://github.com/JHL-HUST/SI-NI-FGSM).
