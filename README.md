@@ -6,6 +6,8 @@ This repository contains code to reproduce results from the paper:
 
 [Xiaosen Wang](https://xiaosen-wang.github.io/), Kun He
 
+> We also include the torch version code in the framework [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack).
+
 ## Requirements
 
 + Python >= 3.6.5
